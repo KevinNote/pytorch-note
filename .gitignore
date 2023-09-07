@@ -1,1 +1,3 @@
 dataset/
+*_priv.*
+.DS_Store
